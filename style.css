@@ -1,0 +1,43 @@
+body {
+    background-color: wheat;
+    background-position: center;
+}
+
+.details {
+    line-height: 19px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+form {
+    line-height: 30px;
+    border: 2px dotted red;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 7px;
+    color: tomato;
+    background-color: black;
+}
+
+.I {
+    line-height: 22px;
+    border: 2px solid red;
+    width: 500px;
+    padding: 20px;
+    margin-left: 20px;
+    padding-left: 50px;
+    background-color: black;
+    color: tomato;
+}
