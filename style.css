@@ -4,10 +4,7 @@ body {
 }
 
 .details {
-    line-height: 19px;
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-overflow: ellipsis;
+    display: inline;
 }
 
 h3 {
